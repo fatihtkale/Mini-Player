@@ -5,4 +5,4 @@ An Mini Player.
 
 Start by cloning the repo, and open it with Visual studio and make a build for yourself
 
-![](http://testserver.kissr.com/gang.gif)
+![alt text](http://testserver.kissr.com/gang.gif)
